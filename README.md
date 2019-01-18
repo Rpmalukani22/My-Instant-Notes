@@ -1,7 +1,7 @@
 # My Instant Notes
 https://play.google.com/store/apps/details?id=dropdwn.ruchitesh.com.notes
 
- My Instant Notes app is a simple and awesome notepad app. It gives you a quick and simple notepad editing experience when you write notes, memos, e-mails, messages, shopping lists and to-do lists.
+ My Instant Notes app is a simple and awesome notepad app. It gives you a quick and simple notepad editing experience when you write notes, memos, e-mails, messages, shopping lists and to-do lists. It supports 10 different languages.
  
  You may find few screenshots here.
  
