@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">મારી ઝટપટ નોંધ</string>
+    <string name="newtitle">શીર્ષક</string>
+    <string name="newdesc">વર્ણન</string>
+    <string name="addnote">નોંધ ઉમેરો</string>
+    <string name="rateus">મૂલ્યાંકન કરો!!</string>
+    <string name="addmenu">નવી નોંધ ઉમેરો</string>
+    <string name="search">શોધો</string>
+    <string name="shint">શીર્ષક</string>
+</resources>

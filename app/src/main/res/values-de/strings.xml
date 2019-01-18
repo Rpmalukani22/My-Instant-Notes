@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meine sofortigen Notizen</string>
+    <string name="newtitle">Titel</string>
+    <string name="newdesc">Beschreibung</string>
+    <string name="addnote">NOTIZ HINZUFÜGEN</string>
+    <string name="rateus">Bewerten Sie uns!!</string>
+    <string name="addmenu">Fügen Sie eine neue Notiz hinzu</string>
+    <string name="search">Suche</string>
+    <string name="shint">Titel</string>
+</resources>

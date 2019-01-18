@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ملاحظاتي الفورية</string>
+    <string name="newtitle">عنوان</string>
+    <string name="newdesc">وصف</string>
+    <string name="addnote">اضف ملاحظة</string>
+    <string name="rateus">قيمنا!!</string>
+    <string name="addmenu">إضافة ملاحظة جديدة</string>
+    <string name="search">بحث</string>
+    <string name="shint">عنوان</string>
+</resources>

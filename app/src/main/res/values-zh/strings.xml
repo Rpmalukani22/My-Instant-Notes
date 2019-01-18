@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">我的即時筆記</string>
+    <string name="newtitle">標題</string>
+    <string name="newdesc">描述</string>
+    <string name="addnote">添加註釋</string>
+    <string name="rateus">評價我們!!</string>
+    <string name="addmenu">添加新評論</string>
+    <string name="search">搜索</string>
+    <string name="shint">標題</string>
+</resources>

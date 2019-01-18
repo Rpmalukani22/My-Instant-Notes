@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">मेरी त्वरित नोट्स</string>
+    <string name="newtitle">शीर्षक</string>
+    <string name="newdesc">विवरण</string>
+    <string name="addnote">नोट जोड़े</string>
+    <string name="rateus">हमें रेटिंग दें!!</string>
+    <string name="addmenu">एक नई नोट जोड़ें</string>
+    <string name="search">खोज</string>
+    <string name="shint">शीर्षक</string>
+</resources>

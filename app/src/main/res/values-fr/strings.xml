@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mes notes instantanées</string>
+    <string name="newtitle">Titre</string>
+    <string name="newdesc">La description</string>
+    <string name="addnote">AJOUTER UNE NOTE</string>
+    <string name="rateus">Évaluez nous!!</string>
+    <string name="addmenu">Ajouter une nouvelle note</string>
+    <string name="search">Chercher</string>
+    <string name="shint">Titre</string>
+</resources>

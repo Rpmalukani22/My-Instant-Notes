@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Мои мгновенные заметки</string>
+    <string name="newtitle">заглавие</string>
+    <string name="newdesc">Описание</string>
+    <string name="addnote">ДОБАВИТЬ ЗАМЕТКУ</string>
+    <string name="rateus">Оцените нас!!</string>
+    <string name="addmenu">Добавить комментарий</string>
+    <string name="search">Поиск</string>
+    <string name="shint">заглавие</string>
+</resources>

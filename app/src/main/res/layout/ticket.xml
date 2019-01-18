@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d3d3d3"
+    android:orientation="vertical"
+    tools:context="dropdwn.ruchitesh.com.notes.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5pt"
+        android:background="@drawable/mybg"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="1pt"
+            android:fontFamily="serif"
+            android:gravity="top"
+            android:hint="Title"
+            android:textColor="#000FFF"
+            android:textSize="22sp"
+            android:textStyle="normal"
+            tools:text="Title" />
+
+        <TextView
+            android:id="@+id/tvdesc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="1pt"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:gravity="top"
+            android:hint="Description"
+            android:text="Text messaging, or texting, is the act of composing and sending electronic messages, typically consisting of alphabetic and numeric characters, between two or more users of mobile phones, tablets, desktops/laptops, or other devices"
+            android:textColor="#333333"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:id="@+id/ived"
+                android:layout_width="15pt"
+                android:layout_height="15pt"
+                android:layout_marginRight="2.5pt"
+                app:srcCompat="@drawable/ic_mode_edit_black_24dp" />
+
+            <ImageView
+                android:id="@+id/ivdel"
+                android:layout_width="15pt"
+                android:layout_height="15pt"
+                android:layout_marginRight="2.5pt"
+                app:srcCompat="@drawable/ic_delete_black_24dp" />
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

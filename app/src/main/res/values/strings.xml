@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Instant Notes</string>
+    <string name="newtitle">Title</string>
+    <string name="newdesc">Description</string>
+    <string name="addnote">ADD NOTE</string>
+    <string name="rateus">Rate us!!</string>
+    <string name="addmenu">Add a New Note</string>
+    <string name="search">Search</string>
+    <string name="shint">Title</string>
+</resources>
